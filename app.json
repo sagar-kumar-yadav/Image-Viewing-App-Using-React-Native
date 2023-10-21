@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "image-viewing-app",
+    "slug": "image-viewing-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "image-viewing-app"
+}
